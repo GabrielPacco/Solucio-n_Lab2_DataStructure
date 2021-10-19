@@ -7,7 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C06EBA05271E9F8D00277F42 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C06EBA04271E9F8D00277F42 /* main.cpp */; };
+		C06EBA05271E9F8D00277F42 /* Stack_Solution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C06EBA04271E9F8D00277F42 /* Stack_Solution.cpp */; };
+		C06EBA0C271EA31700277F42 /* Cola.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C06EBA0B271EA31700277F42 /* Cola.cpp */; };
+		C06EBA0E271F3C6800277F42 /* Dequeue.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C06EBA0D271F3C6800277F42 /* Dequeue.cpp */; };
+		C06EBA10271F6C0F00277F42 /* Preg_2_First_Exam.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C06EBA0F271F6C0F00277F42 /* Preg_2_First_Exam.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +27,10 @@
 
 /* Begin PBXFileReference section */
 		C06EBA01271E9F8D00277F42 /* Solución_Lab2_DataStructure */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Solución_Lab2_DataStructure"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C06EBA04271E9F8D00277F42 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		C06EBA04271E9F8D00277F42 /* Stack_Solution.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Stack_Solution.cpp; sourceTree = "<group>"; };
+		C06EBA0B271EA31700277F42 /* Cola.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Cola.cpp; sourceTree = "<group>"; };
+		C06EBA0D271F3C6800277F42 /* Dequeue.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Dequeue.cpp; sourceTree = "<group>"; };
+		C06EBA0F271F6C0F00277F42 /* Preg_2_First_Exam.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Preg_2_First_Exam.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +63,10 @@
 		C06EBA03271E9F8D00277F42 /* Solución_Lab2_DataStructure */ = {
 			isa = PBXGroup;
 			children = (
-				C06EBA04271E9F8D00277F42 /* main.cpp */,
+				C06EBA04271E9F8D00277F42 /* Stack_Solution.cpp */,
+				C06EBA0B271EA31700277F42 /* Cola.cpp */,
+				C06EBA0D271F3C6800277F42 /* Dequeue.cpp */,
+				C06EBA0F271F6C0F00277F42 /* Preg_2_First_Exam.cpp */,
 			);
 			path = "Solución_Lab2_DataStructure";
 			sourceTree = "<group>";
@@ -119,7 +128,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C06EBA05271E9F8D00277F42 /* main.cpp in Sources */,
+				C06EBA0C271EA31700277F42 /* Cola.cpp in Sources */,
+				C06EBA05271E9F8D00277F42 /* Stack_Solution.cpp in Sources */,
+				C06EBA10271F6C0F00277F42 /* Preg_2_First_Exam.cpp in Sources */,
+				C06EBA0E271F3C6800277F42 /* Dequeue.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
