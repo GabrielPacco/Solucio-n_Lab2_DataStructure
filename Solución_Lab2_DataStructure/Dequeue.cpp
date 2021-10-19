@@ -93,5 +93,13 @@ template <class T>
 T Dequeue<T>::popBack(){
     Node<T>* removed = tail;
     T elem = tail->data;
-    if(head ==)
+    if(head == tail){
+        head = nullptr;
+        tail = nullptr;
+    }else{
+        tail = tail->prev;
+        tail->next = nullptr;
+    }
+    delete removed;
+    return elem;
 }

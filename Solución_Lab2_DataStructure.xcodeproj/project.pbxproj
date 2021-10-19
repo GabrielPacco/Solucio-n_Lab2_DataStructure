@@ -11,6 +11,7 @@
 		C06EBA0C271EA31700277F42 /* Cola.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C06EBA0B271EA31700277F42 /* Cola.cpp */; };
 		C06EBA0E271F3C6800277F42 /* Dequeue.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C06EBA0D271F3C6800277F42 /* Dequeue.cpp */; };
 		C06EBA10271F6C0F00277F42 /* Preg_2_First_Exam.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C06EBA0F271F6C0F00277F42 /* Preg_2_First_Exam.cpp */; };
+		C06EBA12271F76E500277F42 /* Binary_Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C06EBA11271F76E500277F42 /* Binary_Tree.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		C06EBA0B271EA31700277F42 /* Cola.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Cola.cpp; sourceTree = "<group>"; };
 		C06EBA0D271F3C6800277F42 /* Dequeue.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Dequeue.cpp; sourceTree = "<group>"; };
 		C06EBA0F271F6C0F00277F42 /* Preg_2_First_Exam.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Preg_2_First_Exam.cpp; sourceTree = "<group>"; };
+		C06EBA11271F76E500277F42 /* Binary_Tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Binary_Tree.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				C06EBA0B271EA31700277F42 /* Cola.cpp */,
 				C06EBA0D271F3C6800277F42 /* Dequeue.cpp */,
 				C06EBA0F271F6C0F00277F42 /* Preg_2_First_Exam.cpp */,
+				C06EBA11271F76E500277F42 /* Binary_Tree.cpp */,
 			);
 			path = "Solución_Lab2_DataStructure";
 			sourceTree = "<group>";
@@ -129,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C06EBA0C271EA31700277F42 /* Cola.cpp in Sources */,
+				C06EBA12271F76E500277F42 /* Binary_Tree.cpp in Sources */,
 				C06EBA05271E9F8D00277F42 /* Stack_Solution.cpp in Sources */,
 				C06EBA10271F6C0F00277F42 /* Preg_2_First_Exam.cpp in Sources */,
 				C06EBA0E271F3C6800277F42 /* Dequeue.cpp in Sources */,
